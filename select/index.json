@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "twilight little star",
+  "base_artist": "ChouCho",
+  "createdAt": "2025-12-19T03:56:32.379632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "twilight little star",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/01_twilight_little_star_ChouCho.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "twilight little star",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/pl_01_twilight_little_star_ChouCho.txt"
+    }
+  ]
+}
